@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+_buildTest
+_installTest
+cmake-build-debug/
+cmake-build-release/
+.idea/
+Visualization/main_1.0.0.cpp
+*.aux
+*.log
+*.synctex.gz
+*.toc
+
